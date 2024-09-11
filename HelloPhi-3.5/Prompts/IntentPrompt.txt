@@ -1,0 +1,6 @@
+﻿Your task is to map the user's question to one INTENT. Select only the INTENT and do not provide additonal data. You only have access to the following INTENTS:
+
+{INTENTS}
+
+QUESTION:
+{QUESTION}
